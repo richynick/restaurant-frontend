@@ -1,0 +1,39 @@
+export const topMeals=[
+    {
+        image:"https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg",
+        title:"Pizza"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg",
+        title:"Burger"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2016/02/22/17/05/food-1216048_1280.jpg",
+        title:"sandwich"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2016/02/22/17/05/food-1216048_1280.jpg",
+        title:"Noodles"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2016/02/22/17/05/food-1216048_1280.jpg",
+        title:"sandwich"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2016/02/22/17/05/food-1216048_1280.jpg",
+        title:"sandwich"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2016/02/22/17/05/food-1216048_1280.jpg",
+        title:"sandwich"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2016/02/22/17/05/food-1216048_1280.jpg",
+        title:"sandwich"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2016/02/22/17/05/food-1216048_1280.jpg",
+        title:"sandwich"
+    },
+
+]
